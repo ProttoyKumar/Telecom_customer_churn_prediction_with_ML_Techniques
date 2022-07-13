@@ -2,7 +2,7 @@
 Objectives:
 1. Label Encoding, One-hot Encoding
 2. Data Transformation (StandardScaler or MinMaxScaler)
-Grid Search and Cross-Validation
-Decision Tree Classification
-Confusion Matrix
-ROC-AUC
+3. Grid Search and Cross-Validation
+4. Decision Tree Classification
+5. Confusion Matrix
+6. ROC-AUC
